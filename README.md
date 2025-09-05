@@ -1,4 +1,4 @@
-# Texto Animado
+# ✨ Texto Animado
 
 Este projeto apresenta um **texto animado em HTML e CSS** que exibe palavras ou títulos de forma dinâmica e interativa, ideal para destacar informações pessoais ou profissionais.
 ## 🖥️ Funcionalidades
